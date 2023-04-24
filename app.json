@@ -38,7 +38,7 @@
   },
   "addons": [
     {
-      "plan": "heroku-postgresql",
+      "plan": "heroku-Eco",
         "options": {
           "version": "12"
         }
