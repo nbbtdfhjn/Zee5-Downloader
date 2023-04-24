@@ -38,7 +38,7 @@
   },
   "addons": [
     {
-      "plan": "Eco",
+      "plan": "Eco Dynos",
         "options": {
           "version": "12"
         }
