@@ -38,7 +38,7 @@
   },
   "addons": [
     {
-      "plan": "heroku-Eco",
+      "plan": "Eco Dynos Plan",
         "options": {
           "version": "12"
         }
